@@ -1,4 +1,4 @@
-FROM ruby:2.3
+FROM ruby:2.4.1
 MAINTAINER Pedro garcia <pedro.garcia@atos.com>
 
 RUN apt-get update && \
