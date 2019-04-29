@@ -1,9 +1,22 @@
-<!DOCTYPE html>
+<!doctype html>
 <html>
   <head>
-    {% include head.html %}
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+<!--     <link rel="stylesheet" href="/assets/css/styles.css"> -->
+<!--     <link rel="stylesheet" href="/assets/main.css"> -->
+<!-- site css -->
+	<link rel="stylesheet" href="{{'/assets/css/styles.css' | prepend: site.baseurl}}">
   </head>
   <body>
+  	
+  	{% include navigation.html %}
+  	
     {{ content }}
+
+	{% include footer.html %}
+
+	{% include scripts.html %}
+   	
   </body>
 </html>

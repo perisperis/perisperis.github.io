@@ -1,17 +1,25 @@
-# Site settings
-title: Jekyll JRuby Windows issues
-email: peris.garcia@gmail.com
-exclude: ["education"]
-description: Reproducing an issue on Windows with JRuby
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://perisperis.github.io" # the base hostname & protocol for your site
-
-# Server
-#source:           docs
-
-highlighter: rouge
-markdown: kramdown
-plugins_dir: ./_plugins
-# exclude the following directories from the conversion (relative to source directory)
-# Only needed on Windows, and breaks jekyll:serve
-# exclude: [css,docs-js,fonts,icons,images,library,sass,idp-choice.vm]
+collections:
+  authors:
+    output: true
+sass:
+    style: compressed
+    load_paths:
+        - _sass
+        - node_modules
+defaults:
+  - scope:
+      path: ""
+      type: "authors"
+    values:
+      layout: "author"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+plugins:
+  - jekyll-coffeescript
