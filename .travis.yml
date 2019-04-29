@@ -3,10 +3,12 @@ cache:
   bundler: true
   directories:
     - node_modules
+gemfile: Gemfile
 branches:
   only:
   - release
 script:
+  - gulp
   - JEKYLL_ENV=production bundle exec jekyll build --destination site
 deploy:
   provider: pages

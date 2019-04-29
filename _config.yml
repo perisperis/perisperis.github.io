@@ -1,11 +1,11 @@
 collections:
   authors:
     output: true
-sass:
-    style: compressed
-    load_paths:
-        - _sass
-        - node_modules
+    
+# Social Profiles
+twitter_username:  perisperis
+github_username:   perisperis
+
 defaults:
   - scope:
       path: ""
@@ -21,3 +21,6 @@ defaults:
       path: ""
     values:
       layout: "default"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
