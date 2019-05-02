@@ -1,4 +1,4 @@
-## More about me
+# More about me
 
 What they said in [worldline](https://worldline.com/en/home/blog/2019/april/meet-the-women-and-men-of-worldline-pedro-garcia-fernandez.html).
 
@@ -8,7 +8,7 @@ What they said in [worldline](https://worldline.com/en/home/blog/2019/april/meet
 
 # Agrupación Deportiva Nuevo Versalles-Loranca
 
-- [Coach - Pre-Benjamin B](http://www.adnuevoversalles-loranca.es/pnfg/NPcd/RW_Inicio)
+- [Coach](http://www.adnuevoversalles-loranca.es/pnfg/NPcd/RW_Inicio)
 
 
 # Inter de Mostoles
@@ -26,15 +26,12 @@ What they said in [worldline](https://worldline.com/en/home/blog/2019/april/meet
 
 ```
 
-### My domains
+# My domains
 
-
-# Google Domains
-
-- [Tech](https://peris.dev)
+- [peris](https://peris.dev)
 - [FootballCloud](https://footballcloud.net).
 
 
-### Support or Contact
+# Support or Contact
 
 Having trouble with FootballCloud? <footballcloudnet@gmail.com>
