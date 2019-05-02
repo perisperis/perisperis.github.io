@@ -4,13 +4,7 @@ What they said in [worldline](https://worldline.com/en/home/blog/2019/april/meet
 
 ### My domains
 
-[Tech](https://peris.dev)
-[FootballCloud](https://footballcloud.net).
-
 ```markdown
-
-
-
 # Google Domains
 
 - [Tech](https://peris.dev)
