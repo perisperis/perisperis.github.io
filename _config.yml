@@ -6,6 +6,19 @@ collections:
 twitter_username:  perisperis
 github_username:   perisperis
 
+# Exclude the following from the Jekyll build process.
+# Note: "vendor" is for Travis CI.
+exclude: ["vendor",
+          "_assets",
+          "Gemfile",
+          "Gemfile.lock",
+          "gulpfile.js",
+          ".settings",
+          ".sass-cache",
+          "Gruntfile.js",
+          "node_modules",
+          "package.json"]
+          
 defaults:
   - scope:
       path: ""

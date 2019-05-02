@@ -20,3 +20,4 @@ deploy:
   keep-history: true
   on:
     branch: release
+#https://simpleit.rocks/ruby/jekyll/tutorials/how-to-add-bootstrap-4-to-jekyll-the-right-way/
