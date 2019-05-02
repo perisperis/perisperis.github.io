@@ -1,10 +1,15 @@
 ## More about me
 
-Me at work in [worldline](https://worldline.com/en/home/blog/2019/april/meet-the-women-and-men-of-worldline-pedro-garcia-fernandez.html) to rebuild the pages in your site, from the content in your Markdown files.
+What they said in [worldline](https://worldline.com/en/home/blog/2019/april/meet-the-women-and-men-of-worldline-pedro-garcia-fernandez.html).
 
 ### My domains
 
+[Tech](https://peris.dev)
+[FootballCloud](https://footballcloud.net).
+
 ```markdown
+
+
 
 # Google Domains
 
@@ -15,4 +20,4 @@ Me at work in [worldline](https://worldline.com/en/home/blog/2019/april/meet-the
 
 ### Support or Contact
 
-Having trouble with FootballCloud? sing [mailto](mailto:footballcloudnet@gmail.com)
+Having trouble with FootballCloud? <footballcloudnet@gmail.com>
