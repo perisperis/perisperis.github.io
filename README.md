@@ -4,7 +4,7 @@ What they said in [worldline](https://worldline.com/en/home/blog/2019/april/meet
 
 What do i create at [FootballCloud](https://footballcloud.net)?.
 
-# My Proyects
+# My Projects
 
 [resume](https://peris.dev/resume/)
 [home](https://peris.dev/home/)
@@ -12,9 +12,7 @@ What do i create at [FootballCloud](https://footballcloud.net)?.
 [angular](https://peris.dev/angular/)
 [docker](https://cloud.docker.com/u/perisperis/repository/docker/perisperis/postgres-ar)
 
-
 # My FootballCloud History
-
 
 ```markdown
 
