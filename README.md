@@ -6,11 +6,11 @@ What do i create at [FootballCloud](https://footballcloud.net)?
 
 # My Projects
 
-[resume](https://peris.dev/resume/ target="_blank)
-[home](https://peris.dev/home/ target="_blank)
-[heroku](https://peris.dev/heroku/ target="_blank)
-[angular](https://peris.dev/angular/ target="_blank)
-[docker](https://cloud.docker.com/u/perisperis/repository/docker/perisperis/postgres-ar target="_blank)
+[resume](https://peris.dev/resume/){:target="_blank"}
+[home](https://peris.dev/home/){:target="_blank"}
+[heroku](https://peris.dev/heroku/){:target="_blank"}
+[angular](https://peris.dev/angular/){:target="_blank"}
+[docker](https://cloud.docker.com/u/perisperis/repository/docker/perisperis/postgres-ar){:target="_blank"}
 
 # My FootballCloud History
 
