@@ -6,7 +6,7 @@ What do i create at [FootballCloud](https://footballcloud.net)?
 
 # My Projects
 
-[Eeactjs](https://peris.dev/resume/)
+[Reactjs](https://peris.dev/resume/)
 [My FootballCloud](https://peris.dev/home/)
 [Heroku](https://api.peris.dev/)
 [Angular](https://peris.dev/angular/)
