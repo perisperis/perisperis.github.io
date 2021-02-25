@@ -1,6 +1,6 @@
 # More about me
 
-What they said in [worldline](https://worldline.com/en/home/blog/2019/april/meet-the-women-and-men-of-worldline-pedro-garcia-fernandez.html)?
+What they said in [worldline](https://nl.worldline.com/nl/home/blog/20181/april/meet-the-women-and-men-of-worldline-pedro-garcia-fernandez.html)?
 
 What do i create at [FootballCloud](https://footballcloud.net)?
 
@@ -17,6 +17,14 @@ What do i create at [FootballCloud](https://footballcloud.net)?
 
 ```markdown
 
+# FC Mamer 32
+
+- [Fitnesstrainer] (http://fcmamer32.lu/home.html)
+
+# FC Rodange 91
+
+- [Fitnesstrainer] (https://www.fcr91.lu/home)
+
 # Agrupación Deportiva Nuevo Versalles-Loranca
 
 - [Coach](http://www.adnuevoversalles-loranca.es/pnfg/NPcd/RW_Inicio)
@@ -25,7 +33,7 @@ What do i create at [FootballCloud](https://footballcloud.net)?
 
 - [Analyst] (https://www.cdintermostoles.com/)
 
-# US Sandweiler
+# US Esch
 
 - [Fitnesstrainer] (https://www.sport50.com/usesch2/home)
 
