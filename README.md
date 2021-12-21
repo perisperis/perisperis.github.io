@@ -1,8 +1,8 @@
 # More about me
 
-What they said in [worldline](https://nl.worldline.com/nl/home/blog/20181/april/meet-the-women-and-men-of-worldline-pedro-garcia-fernandez.html)?
+What did they said in [worldline](https://nl.worldline.com/nl/home/blog/20181/april/meet-the-women-and-men-of-worldline-pedro-garcia-fernandez.html)?
 
-What do i create at [FootballCloud](https://footballcloud.net)?
+What did i create at [FootballCloud](https://footballcloud.net)?
 
 # My Projects
 
